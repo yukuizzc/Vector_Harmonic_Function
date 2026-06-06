@@ -1,9 +1,8 @@
 # Vector_Harmonic_Function
-## 介绍
+## Introduction
 
-该代码用于生成矢量球面谐波函数的3个分量。
-
-参考文献详见Morse & Feshbach的著作[1]。
+This code is used to generate the three components of vector spherical harmonic functions. 
+For references, see the work by Morse & Feshbach [1]。
 
 ## Ref
 
