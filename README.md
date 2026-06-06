@@ -5,10 +5,14 @@ This code is used to generate the three components of vector spherical harmonic 
 
 The mathematical expression for vector spherical harmonics is:
 
-$$\eqalign{
+$$
+\eqalign{
   & {{\bf{A}}_{lm}} = {Y_{lm}}{\bf{\hat r}}  \cr 
   & {{\bf{B}}_{lm}} = {\bf{r}}\nabla {Y_{lm}}  \cr 
-  & {C_{lm}} = {\bf{r}} \times \nabla {Y_{lm}} \cr} $$ 
+  & {{\bf{C}}_{lm}} = {\bf{r}} \times \nabla {Y_{lm}} \cr}
+$$
+
+
 
 
 
