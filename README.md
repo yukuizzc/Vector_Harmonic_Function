@@ -3,6 +3,15 @@
 
 This code is used to generate the three components of vector spherical harmonic functions. 
 
+The mathematical expression for vector spherical harmonics is:
+
+$$\eqalign{
+  & {{\bf{A}}_{lm}} = {Y_{lm}}{\bf{\hat r}}  \cr 
+  & {{\bf{B}}_{lm}} = {\bf{r}}\nabla {Y_{lm}}  \cr 
+  & {C_{lm}} = {\bf{r}} \times \nabla {Y_{lm}} \cr} $$ 
+
+
+
 For references, see the work by Morse & Feshbach [1]。
 
 ## Ref
